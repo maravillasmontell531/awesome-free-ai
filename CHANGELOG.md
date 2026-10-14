@@ -9,6 +9,10 @@ files are append-only and are the source of truth. This file is the human-readab
 
 Format loosely follows [Keep a Changelog](https://keepachangelog.com).
 
+## [2026-10-14] — Added a manga image translation resource
+
+Added MangaTranslate from Ficory LLC under Translation / OCR, a new category for recognizing and translating image text rather than generating images. The entry records the limited daily web credits and hosted upload workflow. Free-catalog rows: 72 → 73; categories: 15 → 16. No existing tool entries were changed.
+
 ## [2026-10-09] — Renamed the repository and added upstream review checks
 
 Renamed the repository to `chid/awesome-free-ai` and updated the published-site
